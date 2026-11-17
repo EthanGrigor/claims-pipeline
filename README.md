@@ -1,4 +1,4 @@
-# Claims Processing Agent (prototype)
+# Claims Processing Pipeline (prototype)
 This is a claims processing prototype that can read a free-text home insurance claim, check it against a policy and recommend a decision. Built as a learning project. This is a fixed workflow where the code decides the order of the steps, and the model handles the reading and judgement within each one.
 
 
