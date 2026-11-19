@@ -80,7 +80,7 @@ ANTHROPIC_API_KEY=your-key-here
 Then run:
 
 ```
-python claims_agent.py
+python claims_pipeline.py
 ```
 
 This processes the four sample claims in `claims/` against `policies/home_policy.txt` and reports how many match the expected decisions.
